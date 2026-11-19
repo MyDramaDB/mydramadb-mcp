@@ -69,11 +69,10 @@ answer you got.
 ## Terms and licence
 
 Use of the MCP endpoint is under the [MyDramaDB Terms of Service](https://mydramadb.com/terms).
-The Terms do not allow bulk copying, scraping, mirroring or republishing the catalogue, or using it as AI
+The Terms let you connect an AI assistant to the public MCP endpoint, within its published limits, to answer
+your own drama questions, but not to collect, cache, store or resell the catalogue or build datasets from it.
+They also do not allow bulk copying, scraping, mirroring or republishing the catalogue, or using it as AI
 training data.
-
-<!-- TODO before publishing: add the sentence permitting use of the public MCP endpoint within its limits,
-     once the Terms of Service carry that permission. Do not publish this repository until then. -->
 
 The text of this repository is Copyright 2026 MyDramaDB. All rights reserved. The catalogue data and the
 website are not licensed by this repository.

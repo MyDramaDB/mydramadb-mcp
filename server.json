@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.MyDramaDB/mydramadb",
+  "title": "MyDramaDB Korean Drama Data",
+  "description": "Look up a Korean drama by title, find out who played a character, or check an actor's other credits.",
+  "version": "0.1.1",
+  "websiteUrl": "https://mydramadb.com",
+  "repository": {
+    "url": "https://github.com/MyDramaDB/mydramadb-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mydramadb.com/mcp"
+    }
+  ]
+}
